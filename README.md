@@ -22,3 +22,10 @@ Pandas, Numpy, Matplotlib, Seaborn, Folium, Geopy, Urllib, Requests, BeautifulSo
 ## [Data Collection](https://github.com/SumaiaParveen/Clustering-Bangladesh-Capital-City-for-Restaurant-Business/blob/master/Part2_Data_Collection.ipynb)
 
 ## [Clustering and Data Analysis](https://github.com/SumaiaParveen/Clustering-Bangladesh-Capital-City-for-Restaurant-Business/blob/master/Part3_Clustering.ipynb)
+
+## Some Hightlights
+
+![Data Collection](https://github.com/SumaiaParveen/Clustering-Bangladesh-Capital-City-for-Restaurant-Business/blob/master/Image/dhk_div_count.png)
+![Data Collection](https://github.com/SumaiaParveen/Clustering-Bangladesh-Capital-City-for-Restaurant-Business/blob/master/Image/dhk_count.png)
+
+
